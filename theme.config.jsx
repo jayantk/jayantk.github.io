@@ -1,5 +1,5 @@
 export default {
-  footer: <p>MIT 2023 © Nextra.</p>,
+  footer: <p> © 2023 Jayant Krishnamurthy</p>,
   head: ({ title, meta }) => (
     <>
       {meta.description && (
